@@ -5,7 +5,7 @@
 --  DDL for Table MEMBER
 --------------------------------------------------------
 
-  CREATE TABLE "SSM"."MEMBER" 
+  CREATE TABLE "MEMBER" 
    (	"ID" VARCHAR2(32 BYTE) DEFAULT SYS_GUID(), 
 	"NAME" VARCHAR2(20 BYTE), 
 	"NICKNAME" VARCHAR2(20 BYTE), 
