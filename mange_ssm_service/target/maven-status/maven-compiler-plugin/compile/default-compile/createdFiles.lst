@@ -1,0 +1,12 @@
+com\jlyk\service\impl\OrderServiceImpl.class
+com\jlyk\service\OrderService.class
+com\jlyk\service\RoleService.class
+com\jlyk\service\impl\RoleServiceImpl.class
+com\jlyk\service\impl\SysLogServiceImpl.class
+com\jlyk\service\impl\UserInfoServiceImpl.class
+com\jlyk\service\impl\ProductServiceImpl.class
+com\jlyk\service\SysLogService.class
+com\jlyk\service\UserInfoService.class
+com\jlyk\service\impl\PermissionImpl.class
+com\jlyk\service\PermissionService.class
+com\jlyk\service\ProductService.class

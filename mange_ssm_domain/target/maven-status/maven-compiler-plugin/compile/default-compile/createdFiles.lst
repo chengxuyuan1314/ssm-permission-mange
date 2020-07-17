@@ -1,0 +1,8 @@
+com\jlyk\domian\Member.class
+com\jlyk\domian\Traveller.class
+com\jlyk\domian\Orders.class
+com\jlyk\domian\Permission.class
+com\jlyk\domian\Product.class
+com\jlyk\domian\UserInfo.class
+com\jlyk\domian\SysLog.class
+com\jlyk\domian\Role.class

@@ -1,0 +1,8 @@
+com\jlyk\controller\ProductController.class
+com\jlyk\controller\RoleController.class
+com\jlyk\controller\LogAop.class
+com\jlyk\Test\TestOracle.class
+com\jlyk\controller\SysLogController.class
+com\jlyk\controller\PermissionController.class
+com\jlyk\controller\UserController.class
+com\jlyk\controller\OrderController.class

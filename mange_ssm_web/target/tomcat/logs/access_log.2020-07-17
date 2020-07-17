@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:10:54:02 +0800] "GET /mange_ssm_web/login.do HTTP/1.1" 302 - http-bio-8888-exec-2 240
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:10:54:03 +0800] "GET /mange_ssm_web/login.jsp HTTP/1.1" 200 2633 http-bio-8888-exec-3 627
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:10:54:03 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8888-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:10:54:07 +0800] "POST /mange_ssm_web/login.do HTTP/1.1" 200 13231 http-bio-8888-exec-5 1661
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:10:54:10 +0800] "GET /mange_ssm_web/user/findAll.do HTTP/1.1" 200 16848 http-bio-8888-exec-6 400
+0:0:0:0:0:0:0:1 - - [17/Jul/2020:10:54:13 +0800] "GET /mange_ssm_web/product/findAll.do HTTP/1.1" 200 23310 http-bio-8888-exec-7 333

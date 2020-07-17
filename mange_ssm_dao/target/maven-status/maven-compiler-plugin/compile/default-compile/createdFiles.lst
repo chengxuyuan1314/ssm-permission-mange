@@ -1,0 +1,8 @@
+com\jlyk\dao\ProductDao.class
+com\jlyk\dao\PermissionDao.class
+com\jlyk\dao\OrdersDao.class
+com\jlyk\dao\RoleDao.class
+com\jlyk\dao\SysLogDao.class
+com\jlyk\dao\MemberDao.class
+com\jlyk\dao\TravellerDao.class
+com\jlyk\dao\UserInfoDao.class
